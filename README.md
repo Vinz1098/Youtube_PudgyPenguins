@@ -1,2 +1,2 @@
 # Author: Vinayak
-This Project is about YouTube Data extraction on Pudgy Penguins
+This project centers around extracting YouTube data pertaining to Pudgy Penguins, aiming to delve into the comments section for analysis. It involves leveraging Bertopics to categorize topics within related content, thereby facilitating comprehensive analysis. Additionally, the project integrates GPT-4.0 to utilize its capabilities for summarizing and extracting key insights from the collected data. This process enables a detailed exploration of the comments section's content and structure, employing advanced tools for a thorough examination and understanding of the Pudgy Penguins' YouTube presence.
